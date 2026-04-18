@@ -71,6 +71,7 @@ src/
 ---
 
 ## Autor
-**Cristian** - Estudiante Universidad Industrial de Santander (UIS)  
+**Cristian Camilo Carreño Rey** -2221475 
+**Estudiante Universidad Industrial de Santander (UIS) ** 
 Profesor: Carlos Adolfo Beltrán Castro  
 I Semestre 2025
